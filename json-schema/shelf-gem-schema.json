@@ -1,0 +1,92 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://api-evangelist.github.io/shelf/json-schema/shelf-gem-schema.json",
+  "title": "Shelf Gem",
+  "description": "A Gem is a curated, verified piece of knowledge in the Shelf platform representing a discrete answer, article, or knowledge unit.",
+  "type": "object",
+  "required": ["id", "title", "content", "status"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier for the Gem."
+    },
+    "title": {
+      "type": "string",
+      "description": "Title of the knowledge Gem."
+    },
+    "content": {
+      "type": "string",
+      "description": "The full text content of the Gem."
+    },
+    "status": {
+      "type": "string",
+      "enum": ["draft", "review", "published", "archived"],
+      "description": "Lifecycle status of the Gem."
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Tags for categorizing and filtering the Gem."
+    },
+    "knowledgeBaseId": {
+      "type": "string",
+      "description": "ID of the knowledge base this Gem belongs to."
+    },
+    "authorId": {
+      "type": "string",
+      "description": "User ID of the Gem author."
+    },
+    "createdAt": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp when the Gem was created."
+    },
+    "updatedAt": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp when the Gem was last updated."
+    },
+    "publishedAt": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp when the Gem was published."
+    },
+    "language": {
+      "type": "string",
+      "description": "ISO 639-1 language code for the Gem content.",
+      "example": "en"
+    },
+    "viewCount": {
+      "type": "integer",
+      "description": "Number of times this Gem has been viewed."
+    },
+    "helpfulCount": {
+      "type": "integer",
+      "description": "Number of times users marked this Gem as helpful."
+    },
+    "attachments": {
+      "type": "array",
+      "description": "List of file attachments associated with the Gem.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "mimeType": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

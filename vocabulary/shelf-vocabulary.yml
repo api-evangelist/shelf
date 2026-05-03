@@ -1,0 +1,79 @@
+vocabulary:
+  name: Shelf.io Vocabulary
+  description: Domain vocabulary for the Shelf.io knowledge management and AI agentic platform.
+  version: '1.0'
+  created: '2026-05-02'
+  modified: '2026-05-02'
+  terms:
+    - term: Gem
+      definition: A curated, verified piece of knowledge in Shelf representing a discrete answer, article, or knowledge unit that can be surfaced to agents and customers.
+      category: Knowledge
+      tags:
+        - Knowledge
+        - Content
+    - term: Content Intelligence
+      definition: Shelf's AI capability that analyzes, indexes, and semantically retrieves knowledge content to produce accurate, contextually relevant answers.
+      category: AI
+      tags:
+        - Artificial Intelligence
+        - Search
+    - term: Knowledge Base
+      definition: A structured repository of verified knowledge articles, gems, and decision trees managed within the Shelf platform.
+      category: Knowledge
+      tags:
+        - Knowledge
+        - Content
+    - term: Decision Tree
+      definition: An interactive, branching content structure in Shelf that guides users through troubleshooting or self-service scenarios step by step.
+      category: Knowledge
+      tags:
+        - Knowledge
+        - Self-Service
+    - term: Content Connector
+      definition: A pre-built Shelf integration that syncs knowledge content from external sources (SharePoint, Google Drive, Confluence) into the Shelf knowledge base.
+      category: Integration
+      tags:
+        - Integration
+        - Content
+    - term: API Token
+      definition: A bearer token used to authenticate API calls to Shelf REST endpoints, with Standard or Full Admin access levels.
+      category: Authentication
+      tags:
+        - Authentication
+        - Security
+    - term: Knowledge Lifecycle
+      definition: The managed process of creating, reviewing, approving, publishing, archiving, and retiring knowledge content within Shelf.
+      category: Knowledge
+      tags:
+        - Knowledge
+        - Workflow
+    - term: Agent Assist
+      definition: Shelf capability that surfaces relevant knowledge to contact center agents in real-time during customer interactions.
+      category: Contact Center
+      tags:
+        - Contact Center
+        - AI
+    - term: Self-Service
+      definition: Customer-facing knowledge delivery enabling users to find answers independently without agent intervention.
+      category: Contact Center
+      tags:
+        - Self-Service
+        - Customer Experience
+    - term: Semantic Search
+      definition: AI-powered search in Shelf that understands natural language queries and returns contextually relevant knowledge results beyond keyword matching.
+      category: Search
+      tags:
+        - Search
+        - Artificial Intelligence
+    - term: Knowledge Analytics
+      definition: Shelf dashboards and reporting that measure content efficacy, usage patterns, search success rates, and knowledge gap identification.
+      category: Analytics
+      tags:
+        - Analytics
+        - Reporting
+    - term: Regional Endpoint
+      definition: Shelf API base URL specific to a data residency region (US: api.shelf.io, Canada: api.shelf-ca.com, Europe: api.shelf-eu.com).
+      category: API
+      tags:
+        - API
+        - Infrastructure

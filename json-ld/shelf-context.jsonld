@@ -1,0 +1,103 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "shelf": "https://api-evangelist.github.io/shelf/vocab#",
+    "name": "schema:name",
+    "description": "schema:description",
+    "url": "schema:url",
+    "identifier": "schema:identifier",
+    "Gem": {
+      "@id": "shelf:Gem",
+      "@type": "@id"
+    },
+    "gemId": {
+      "@id": "shelf:gemId",
+      "@type": "schema:Text"
+    },
+    "gemTitle": {
+      "@id": "schema:headline",
+      "@type": "schema:Text"
+    },
+    "gemContent": {
+      "@id": "schema:text",
+      "@type": "schema:Text"
+    },
+    "gemStatus": {
+      "@id": "shelf:gemStatus",
+      "@type": "schema:Text"
+    },
+    "tags": {
+      "@id": "schema:keywords",
+      "@type": "schema:Text"
+    },
+    "KnowledgeBase": {
+      "@id": "schema:Dataset",
+      "@type": "@id"
+    },
+    "knowledgeBaseId": {
+      "@id": "shelf:knowledgeBaseId",
+      "@type": "schema:Text"
+    },
+    "DecisionTree": {
+      "@id": "shelf:DecisionTree",
+      "@type": "@id"
+    },
+    "treeId": {
+      "@id": "shelf:treeId",
+      "@type": "schema:Text"
+    },
+    "treeTitle": {
+      "@id": "schema:headline",
+      "@type": "schema:Text"
+    },
+    "SearchResult": {
+      "@id": "schema:SearchResultsPage",
+      "@type": "@id"
+    },
+    "query": {
+      "@id": "schema:query",
+      "@type": "schema:Text"
+    },
+    "results": {
+      "@id": "schema:result",
+      "@type": "@id"
+    },
+    "confidence": {
+      "@id": "shelf:confidence",
+      "@type": "schema:Number"
+    },
+    "User": {
+      "@id": "schema:Person",
+      "@type": "@id"
+    },
+    "userId": {
+      "@id": "schema:identifier",
+      "@type": "schema:Text"
+    },
+    "email": {
+      "@id": "schema:email",
+      "@type": "schema:Text"
+    },
+    "role": {
+      "@id": "schema:roleName",
+      "@type": "schema:Text"
+    },
+    "WebhookEvent": {
+      "@id": "schema:Event",
+      "@type": "@id"
+    },
+    "eventType": {
+      "@id": "shelf:eventType",
+      "@type": "schema:Text"
+    },
+    "eventTimestamp": {
+      "@id": "schema:startDate",
+      "@type": "schema:DateTime"
+    },
+    "payload": {
+      "@id": "schema:additionalProperty",
+      "@type": "@id"
+    }
+  }
+}

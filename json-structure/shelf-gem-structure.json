@@ -1,0 +1,119 @@
+{
+  "name": "Shelf Gem Structure",
+  "description": "The structural representation of a Shelf Gem knowledge unit.",
+  "type": "object",
+  "fields": [
+    {
+      "name": "id",
+      "type": "string",
+      "description": "Unique Gem identifier",
+      "required": true,
+      "example": "gem_abc123"
+    },
+    {
+      "name": "title",
+      "type": "string",
+      "description": "Gem title displayed to users",
+      "required": true,
+      "example": "How to reset your password"
+    },
+    {
+      "name": "content",
+      "type": "string",
+      "description": "Full text body of the knowledge Gem",
+      "required": true
+    },
+    {
+      "name": "status",
+      "type": "enum",
+      "values": ["draft", "review", "published", "archived"],
+      "description": "Current lifecycle state of the Gem",
+      "required": true,
+      "example": "published"
+    },
+    {
+      "name": "tags",
+      "type": "array<string>",
+      "description": "Classification tags for search and filtering",
+      "required": false,
+      "example": ["account", "password", "security"]
+    },
+    {
+      "name": "knowledgeBaseId",
+      "type": "string",
+      "description": "Parent knowledge base identifier",
+      "required": false
+    },
+    {
+      "name": "authorId",
+      "type": "string",
+      "description": "ID of the user who created the Gem",
+      "required": false
+    },
+    {
+      "name": "language",
+      "type": "string",
+      "description": "ISO 639-1 language code",
+      "required": false,
+      "example": "en"
+    },
+    {
+      "name": "createdAt",
+      "type": "datetime",
+      "description": "Creation timestamp (ISO 8601)",
+      "required": false
+    },
+    {
+      "name": "updatedAt",
+      "type": "datetime",
+      "description": "Last update timestamp (ISO 8601)",
+      "required": false
+    },
+    {
+      "name": "publishedAt",
+      "type": "datetime",
+      "description": "Publication timestamp (ISO 8601)",
+      "required": false
+    },
+    {
+      "name": "viewCount",
+      "type": "integer",
+      "description": "Number of times the Gem has been viewed",
+      "required": false
+    },
+    {
+      "name": "helpfulCount",
+      "type": "integer",
+      "description": "Number of helpful votes received",
+      "required": false
+    },
+    {
+      "name": "attachments",
+      "type": "array<object>",
+      "description": "File attachments linked to the Gem",
+      "required": false,
+      "fields": [
+        {
+          "name": "id",
+          "type": "string",
+          "description": "Attachment identifier"
+        },
+        {
+          "name": "name",
+          "type": "string",
+          "description": "Display filename"
+        },
+        {
+          "name": "url",
+          "type": "string",
+          "description": "Download URL"
+        },
+        {
+          "name": "mimeType",
+          "type": "string",
+          "description": "MIME content type"
+        }
+      ]
+    }
+  ]
+}

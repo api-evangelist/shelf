@@ -77,6 +77,15 @@ description: >-
   and 100+ integrations with platforms including Salesforce, Zendesk, ServiceNow,
   and Microsoft Teams. The platform offers Content Connectors, Decision Trees,
   multilingual support for 100+ languages, and analytics dashboards.
+integrations:
+  - name: 'Integrations: image 1'
+  - name: Icon-1
+  - name: Main Integration
+  - name: 'Integrations: image 2'
+  - name: 'Integrations: image 3'
+  - name: 'Integrations: image 4'
+  - name: Resources
+  - name: Cta - main image
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com

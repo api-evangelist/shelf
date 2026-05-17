@@ -61,7 +61,7 @@ tags:
   - Knowledge Management
   - SaaS
   - Search
-type: Contract
+kind: contract
 image: https://shelf.io/wp-content/uploads/2021/07/shelf-logo.svg
 access: 3rd-Party
 created: '2025-01-01'
@@ -102,7 +102,7 @@ common:
   - url: https://shelf.io/partners/integrations/
     type: Partner Integrations
   - url: https://github.com/shelfio
-    type: GitHub Organization
+    type: GitHubOrganization
   - url: https://apitracker.io/a/shelf-io
     type: API Tracker
   - type: Features

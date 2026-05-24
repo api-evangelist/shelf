@@ -153,3 +153,5 @@ common:
         description: Content Connector to sync and manage knowledge from Google Drive documents.
       - name: Confluence
         description: Content Connector to sync Confluence wiki content into Shelf knowledge base.
+  - type: LLMsTxt
+    url: https://help.shelf.io/llms.txt

@@ -94,13 +94,13 @@ common:
   - url: https://shelf.io
     type: Website
   - url: https://shelf.io/technology/
-    type: Developer Portal
+    type: DeveloperPortal
   - url: https://help.shelf.io/technical-guidelines-10162c4f
     type: Documentation
   - url: https://shelf.io/integrations/
     type: Integrations
   - url: https://shelf.io/partners/integrations/
-    type: Partner Integrations
+    type: Integrations
   - url: https://github.com/shelfio
     type: GitHubOrganization
   - url: https://apitracker.io/a/shelf-io
@@ -153,5 +153,5 @@ common:
         description: Content Connector to sync and manage knowledge from Google Drive documents.
       - name: Confluence
         description: Content Connector to sync Confluence wiki content into Shelf knowledge base.
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://help.shelf.io/llms.txt

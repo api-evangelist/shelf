@@ -91,6 +91,8 @@ maintainers:
     email: kin@apievangelist.com
 specificationVersion: '0.19'
 common:
+  - type: DomainSecurity
+    url: security/shelf-domain-security.yml
   - url: https://shelf.io
     type: Website
   - url: https://shelf.io/technology/
@@ -155,3 +157,5 @@ common:
         description: Content Connector to sync Confluence wiki content into Shelf knowledge base.
   - type: LlmsText
     url: https://help.shelf.io/llms.txt
+  - url: https://shelf.io/blog/
+    type: Blog

@@ -62,6 +62,18 @@ tags:
   - SaaS
   - Search
 kind: contract
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
 image: https://shelf.io/wp-content/uploads/2021/07/shelf-logo.svg
 access: 3rd-Party
 created: '2025-01-01'

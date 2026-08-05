@@ -72,7 +72,7 @@ vocabulary:
         - Analytics
         - Reporting
     - term: Regional Endpoint
-      definition: Shelf API base URL specific to a data residency region (US: api.shelf.io, Canada: api.shelf-ca.com, Europe: api.shelf-eu.com).
+      definition: "Shelf API base URL specific to a data residency region (US: api.shelf.io, Canada: api.shelf-ca.com, Europe: api.shelf-eu.com)."
       category: API
       tags:
         - API

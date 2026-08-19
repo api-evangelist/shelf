@@ -1,0 +1,137 @@
+# Shelf Help Center
+
+> Welcome!
+
+## Key sections
+
+- [Getting Started](https://help.shelf.io/getting-started-04a7bf45): New users to Shelf find this section to be the most beneficial place to start when it comes to account access and profile setting questions.
+- [Content Integration Layer & Connectors](https://help.shelf.io/technical-guidelines-10162c4f/content-integration-layer-connectors-0cff4eea)
+- [Technical Guidelines](https://help.shelf.io/technical-guidelines-10162c4f)
+- [For Content Managers](https://help.shelf.io/gem-content-overview-78c2eb26/for-content-managers-197af829)
+- [Library and Folder Settings](https://help.shelf.io/library-and-folder-settings-28488ea5)
+- [Shelf Single Sign-On](https://help.shelf.io/technical-guidelines-10162c4f/shelf-single-sign-on-40507e61)
+- [Shelf Gems and Content Types](https://help.shelf.io/gem-content-overview-78c2eb26/shelf-gems-and-content-types-6a539109)
+- [Gem (Content) Overview](https://help.shelf.io/gem-content-overview-78c2eb26)
+- [Shelf View and Features Guide](https://help.shelf.io/library-and-folder-settings-28488ea5/shelf-view-and-features-guide-7a963ce4)
+- [Content Navigation and Organization](https://help.shelf.io/library-and-folder-settings-28488ea5/content-navigation-and-organization-9291e624)
+- [Account Access](https://help.shelf.io/getting-started-04a7bf45/account-access-98ec5224)
+- [Shelf Integrations & Answer Assist](https://help.shelf.io/technical-guidelines-10162c4f/shelf-integrations-answer-assist-a7cdd497)
+- [Profile Settings](https://help.shelf.io/getting-started-04a7bf45/profile-settings-cf06c87e)
+- [Shelf Search & Filters](https://help.shelf.io/library-and-folder-settings-28488ea5/shelf-search-filters-eb0bc765)
+- [Uploading Content](https://help.shelf.io/gem-content-overview-78c2eb26/for-content-managers-197af829/uploading-content-fbea87a8)
+
+## Articles
+
+- [Gem Views](https://help.shelf.io/gem-content-overview-78c2eb26/shelf-gems-and-content-types-6a539109/gem-views-0058ea8d): Total number of views per Gem; full names and date viewed are shown.
+- [Adding a Description to a Folder/Gem](https://help.shelf.io/gem-content-overview-78c2eb26/for-content-managers-197af829/adding-a-description-to-a-foldergem-03b543c8)
+- [Narrowing Down Search Results](https://help.shelf.io/library-and-folder-settings-28488ea5/shelf-search-filters-eb0bc765/narrowing-down-search-results-04986da6)
+- [Shelf Integrations with Zendesk - Installation & Configuration Guide](https://help.shelf.io/technical-guidelines-10162c4f/shelf-integrations-answer-assist-a7cdd497/shelf-integrations-with-zendesk-installation-configu-04a73db7)
+- [Shelf Sharepoint Connector Guide_V.1.7](https://help.shelf.io/technical-guidelines-10162c4f/content-integration-layer-connectors-0cff4eea/shelf-sharepoint-connector-guide_v17-078cf34a)
+- [Adding Content via Touchpad](https://help.shelf.io/gem-content-overview-78c2eb26/for-content-managers-197af829/uploading-content-fbea87a8/adding-content-via-touchpad-0c06dcfa)
+- [Shelf App for Salesforce: Installation and Configuration Guide_V.2.2](https://help.shelf.io/technical-guidelines-10162c4f/shelf-integrations-answer-assist-a7cdd497/shelf-app-for-salesforce-installation-and-configuration-0d67ea81)
+- [Shelf Components Setup for Salesforce Community Cloud (v2.6)](https://help.shelf.io/technical-guidelines-10162c4f/shelf-components-setup-for-salesforce-community-cloud-v-0d6c21e2)
+- [Uneditable Sections on the Gem Page](https://help.shelf.io/gem-content-overview-78c2eb26/for-content-managers-197af829/uneditable-sections-on-the-gem-page-18b012fa)
+- [Notification Settings](https://help.shelf.io/getting-started-04a7bf45/profile-settings-cf06c87e/notification-settings-1c28d77c): When certain events happen in Shelf, you can choose to be notified in two different ways (or not at all). Keep in mind, not all events may applicable to you.
+- [Shelf Usage During Bulk Uploads](https://help.shelf.io/gem-content-overview-78c2eb26/for-content-managers-197af829/uploading-content-fbea87a8/shelf-usage-during-bulk-uploads-1c395bf3)
+- [OKTA SAML and SCIM for Shelf Guide](https://help.shelf.io/technical-guidelines-10162c4f/shelf-single-sign-on-40507e61/okta-saml-and-scim-for-shelf-guide-222ad10b)
+- [Training Guide for Agents](https://help.shelf.io/training-guide-for-agents-26bd761b)
+- [Shelf Intercom Connector Guide](https://help.shelf.io/technical-guidelines-10162c4f/content-integration-layer-connectors-0cff4eea/shelf-intercom-connector-guide-29465ef6)
+- [SSO Setup for Shelf via Google Workspace_v.1.0](https://help.shelf.io/technical-guidelines-10162c4f/shelf-single-sign-on-40507e61/sso-setup-for-shelf-via-google-workspace_v10-2fcb1bd4)
+- [Sort the View of Content in a Library](https://help.shelf.io/library-and-folder-settings-28488ea5/content-navigation-and-organization-9291e624/sort-the-view-of-content-in-a-library-3202bead): Applying filters to your searches is the first helpful step in narrowing your results. However, once you get those results, you can further sort your view to easily locate the content you need.
+- [Open or Preview a Gem](https://help.shelf.io/library-and-folder-settings-28488ea5/content-navigation-and-organization-9291e624/open-or-preview-a-gem-358c57c2): Remember, all content in Shelf is referred to as a "Gem". Having trouble viewing the content? Review this article to troubleshoot the issue.
+- [Shelf Answer Assist App Introductory Guide](https://help.shelf.io/technical-guidelines-10162c4f/shelf-integrations-answer-assist-a7cdd497/shelf-answer-assist-app-introductory-guide-3c2f251d)
+- [Shelf Content Integration Layer Feature User Guide](https://help.shelf.io/technical-guidelines-10162c4f/content-integration-layer-connectors-0cff4eea/shelf-content-integration-layer-feature-user-guide-3d4d2b77)
+- [Shelf Confluence Connector Guide](https://help.shelf.io/technical-guidelines-10162c4f/content-integration-layer-connectors-0cff4eea/shelf-confluence-connector-guide-3e7c5305)
+- [View All Announcements in My Account Section](https://help.shelf.io/getting-started-04a7bf45/profile-settings-cf06c87e/view-all-announcements-in-my-account-section-41d22b78): For those who utilize the Shelf Announcements feature, view all current and past announcements in one place.
+- [How to Edit a Gem](https://help.shelf.io/gem-content-overview-78c2eb26/for-content-managers-197af829/how-to-edit-a-gem-435e36b4)
+- [Sharing Shelf Content through Social Channels](https://help.shelf.io/gem-content-overview-78c2eb26/for-content-managers-197af829/sharing-shelf-content-through-social-channels-438b22a3)
+- [Shelf ServiceNow Connector Guide](https://help.shelf.io/technical-guidelines-10162c4f/content-integration-layer-connectors-0cff4eea/shelf-servicenow-connector-guide-43ebc525)
+- [Gem Preview](https://help.shelf.io/library-and-folder-settings-28488ea5/shelf-view-and-features-guide-7a963ce4/gem-preview-476a35d3)
+- [Wall View Changes](https://help.shelf.io/library-and-folder-settings-28488ea5/shelf-view-and-features-guide-7a963ce4/wall-view-changes-47ec233c)
+- [What's New in the UI?](https://help.shelf.io/getting-started-04a7bf45/whats-new-in-the-ui-4a92af7c)
+- [Shelf Answer Assist Events Usage and Export Guide](https://help.shelf.io/technical-guidelines-10162c4f/shelf-integrations-answer-assist-a7cdd497/shelf-answer-assist-events-usage-and-export-guide-4b0ff7f3)
+- [Shelf Content Publication Workflow Permissions Guide_V.1.0](https://help.shelf.io/technical-guidelines-10162c4f/shelf-content-publication-workflow-permissions-guide_v1-4c299362)
+- [Shelf KMS Home Dashboard Overview Guide_v.1.2](https://help.shelf.io/technical-guidelines-10162c4f/shelf-kms-home-dashboard-overview-guide_v12-4d6f1b52)
+- [Overview of the Theme Editor Feature for Shelf Self-Service Portals_V.1.0](https://help.shelf.io/technical-guidelines-10162c4f/overview-of-the-theme-editor-feature-for-shelf-self-serv-4de39865)
+- [Overriding a Content Type](https://help.shelf.io/gem-content-overview-78c2eb26/for-content-managers-197af829/overriding-a-content-type-52e0d1eb)
+- [Advanced Scores in Content Intelligence](https://help.shelf.io/advanced-scores-in-content-intelligence-5983adf3)
+- [Shelf SSO Setup Guide for AD FS](https://help.shelf.io/technical-guidelines-10162c4f/shelf-single-sign-on-40507e61/shelf-sso-setup-guide-for-ad-fs-59920ddb)
+- [Shelf Analytics Copilot Feature Overview_V1.0](https://help.shelf.io/technical-guidelines-10162c4f/shelf-analytics-copilot-feature-overview_v10-5ac338d0)
+- [Shelf User and Permission Management Overview_V.1.1](https://help.shelf.io/technical-guidelines-10162c4f/shelf-user-and-permission-management-overview_v11-5bf2843a)
+- [Undoing a Delete](https://help.shelf.io/gem-content-overview-78c2eb26/for-content-managers-197af829/undoing-a-delete-5c245b6d)
+- [How to Search within Shelf?](https://help.shelf.io/library-and-folder-settings-28488ea5/shelf-search-filters-eb0bc765/how-to-search-within-shelf-5eb6e3c1)
+- [Slack Shelf App Installation Guide](https://help.shelf.io/technical-guidelines-10162c4f/shelf-integrations-answer-assist-a7cdd497/slack-shelf-app-installation-guide-5f394e1c)
+- [Shelf Universal Connector Guide](https://help.shelf.io/technical-guidelines-10162c4f/content-integration-layer-connectors-0cff4eea/shelf-universal-connector-guide-62e99429)
+- [Unsearchable Content in the Application](https://help.shelf.io/library-and-folder-settings-28488ea5/shelf-search-filters-eb0bc765/unsearchable-content-in-the-application-64470786)
+- [How to Share a Gem](https://help.shelf.io/gem-content-overview-78c2eb26/shelf-gems-and-content-types-6a539109/how-to-share-a-gem-6607fa84)
+- [Adding Tags to a Gem](https://help.shelf.io/gem-content-overview-78c2eb26/for-content-managers-197af829/adding-tags-to-a-gem-696f6776)
+- [Quick Access to Shelf Login Portals](https://help.shelf.io/getting-started-04a7bf45/account-access-98ec5224/quick-access-to-shelf-login-portals-6b210797): For those of you not located in the United States, we have separate login portals for EMEA and Canada here!
+- [Using Shelf During Uploads/Syncs](https://help.shelf.io/gem-content-overview-78c2eb26/for-content-managers-197af829/uploading-content-fbea87a8/using-shelf-during-uploadssyncs-71a5d4c7)
+- [How to Favorite a Gem](https://help.shelf.io/gem-content-overview-78c2eb26/how-to-favorite-a-gem-71e114e1): Easily create a quick pick list of the Gems you use most often to save yourself from extra time spent searching for frequently used content.
+- [Shelf Self-Service Portal Custom Domain Guide (via DNS)](https://help.shelf.io/technical-guidelines-10162c4f/shelf-self-service-portal-custom-domain-guide-via-dns-7248da70)
+- [Shelf Answer Assist Integration with Genesys Cloud: Installation & Configuration Guide_ v.1.3](https://help.shelf.io/technical-guidelines-10162c4f/shelf-integrations-answer-assist-a7cdd497/shelf-answer-assist-integration-with-genesys-cloud-inst-73fc3817)
+- [Shelf Announcements Feature Guide_V.1.1](https://help.shelf.io/technical-guidelines-10162c4f/shelf-announcements-feature-guide_v11-75d3de76)
+- [Shelf Contentful Connector Guide_1.2](https://help.shelf.io/technical-guidelines-10162c4f/content-integration-layer-connectors-0cff4eea/shelf-contentful-connector-guide_12-7663b811)
+- [Search Results Page: Display and Customization](https://help.shelf.io/library-and-folder-settings-28488ea5/shelf-search-filters-eb0bc765/search-results-page-display-and-customization-76c276a2)
+- [Context Menu](https://help.shelf.io/library-and-folder-settings-28488ea5/shelf-view-and-features-guide-7a963ce4/context-menu-76e2e5a4)
+- [The Purpose of Shelf Filters](https://help.shelf.io/library-and-folder-settings-28488ea5/shelf-search-filters-eb0bc765/the-purpose-of-shelf-filters-77a9c24b)
+- [Kustomer integration with Talkdesk](https://help.shelf.io/technical-guidelines-10162c4f/shelf-integrations-answer-assist-a7cdd497/kustomer-integration-with-talkdesk-7aa111c7)
+- [Requirements for Talkdesk Integration with Shelf](https://help.shelf.io/technical-guidelines-10162c4f/shelf-integrations-answer-assist-a7cdd497/requirements-for-talkdesk-integration-with-shelf-7fcbbc7d)
+- [Shelf Genesys Cloud: Answer Assist for Voice Configuration Guide_V.1.1](https://help.shelf.io/technical-guidelines-10162c4f/shelf-integrations-answer-assist-a7cdd497/shelf-genesys-cloud-answer-assist-for-voice-configurati-85a0c85b)
+- [Shelf Genesys Cloud Integration: Shelf App Installation Guide](https://help.shelf.io/technical-guidelines-10162c4f/shelf-integrations-answer-assist-a7cdd497/shelf-genesys-cloud-integration-shelf-app-installation-8946eb8c)
+- [Organizational Units Feature Overview Guide](https://help.shelf.io/technical-guidelines-10162c4f/organizational-units-feature-overview-guide-89edebb8)
+- [Shelf Google Drive Connector Guide_v.1.2](https://help.shelf.io/technical-guidelines-10162c4f/content-integration-layer-connectors-0cff4eea/shelf-google-drive-connector-guide_v12-8a026ba4)
+- [Shelf Integration with SAP C4C - Installation Guide](https://help.shelf.io/technical-guidelines-10162c4f/shelf-integrations-answer-assist-a7cdd497/shelf-integration-with-sap-c4c-installation-guide-8a06fbf5)
+- [Shelf's Agent Assist Integration with CXone - Installation & Configuration Guide](https://help.shelf.io/technical-guidelines-10162c4f/shelf-integrations-answer-assist-a7cdd497/shelfs-agent-assist-integration-with-cxone-installati-8d934cc3)
+- [SSO Setup for Shelf App via Microsoft Entra ID_v.1.4](https://help.shelf.io/technical-guidelines-10162c4f/shelf-single-sign-on-40507e61/sso-setup-for-shelf-app-via-microsoft-entra-id_v14-8e99c18d)
+- [How to Open or Preview a Gem](https://help.shelf.io/gem-content-overview-78c2eb26/how-to-open-or-preview-a-gem-94201117): Remember, all content in Shelf is referred to as a "Gem". Having trouble viewing the content? Review this article to troubleshoot the issue.
+- [Expand Folders in Shared Libraries](https://help.shelf.io/library-and-folder-settings-28488ea5/content-navigation-and-organization-9291e624/expand-folders-in-shared-libraries-96c469af): Curious where content is being stored in Shelf? Easily expand a library to see the folder structure of your content.
+- [Integrating Shelf with Slack](https://help.shelf.io/gem-content-overview-78c2eb26/for-content-managers-197af829/uploading-content-fbea87a8/integrating-shelf-with-slack-9781f420)
+- [Shelf Login & Registration Link](https://help.shelf.io/getting-started-04a7bf45/account-access-98ec5224/shelf-login-registration-link-9de96a59): Not seeing your Shelf login screen or link for registration? Check out this article to find out where to go and what you should expect to see.
+- [Shelf Genesys Cloud Integration Configuration Guide](https://help.shelf.io/technical-guidelines-10162c4f/shelf-integrations-answer-assist-a7cdd497/shelf-genesys-cloud-integration-configuration-guide-a3a5031c)
+- [Pinned Content in Shelf](https://help.shelf.io/library-and-folder-settings-28488ea5/content-navigation-and-organization-9291e624/pinned-content-in-shelf-a3f74e1b): This article describes the options of pinning content to the Home Dashboard, a Library, and a Folder and why it's an important feature for you!
+- [Shelf KMS: Gem Edit and Draft Mode Overview Guide_V.1.1](https://help.shelf.io/technical-guidelines-10162c4f/shelf-kms-gem-edit-and-draft-mode-overview-guide_v11-a621a336)
+- [Gem View Page Overview](https://help.shelf.io/gem-content-overview-78c2eb26/gem-view-page-overview-a63eb556): Once a Gem is opened, you'll be taken to the "Gem View" page. Learn more about the Details, Menus, etc.
+- [Ways to Upload Content from Desktop or File Server](https://help.shelf.io/gem-content-overview-78c2eb26/for-content-managers-197af829/uploading-content-fbea87a8/ways-to-upload-content-from-desktop-or-file-server-a77b8255)
+- [Chatbot Configuration Guide](https://help.shelf.io/technical-guidelines-10162c4f/chatbot-configuration-guide-a7b6182a)
+- [Automated Creation of New Folders](https://help.shelf.io/gem-content-overview-78c2eb26/for-content-managers-197af829/automated-creation-of-new-folders-a90ecbd0)
+- [Shelf API Token Feature Introductory Guide](https://help.shelf.io/technical-guidelines-10162c4f/shelf-api-token-feature-introductory-guide-aac2ec62)
+- [Shelf Zendesk Connector Guide](https://help.shelf.io/technical-guidelines-10162c4f/content-integration-layer-connectors-0cff4eea/shelf-zendesk-connector-guide-ab435567)
+- [Shelf Salesforce Knowledge Connector Guide](https://help.shelf.io/technical-guidelines-10162c4f/content-integration-layer-connectors-0cff4eea/shelf-salesforce-knowledge-connector-guide-ab47fa2b)
+- [Shelf Search Copilot Feature Overview_V1.1](https://help.shelf.io/technical-guidelines-10162c4f/shelf-search-copilot-feature-overview_v11-ac0fbe73)
+- [Multiple Ways to Add Content to Shelf](https://help.shelf.io/gem-content-overview-78c2eb26/for-content-managers-197af829/multiple-ways-to-add-content-to-shelf-ad562b07)
+- [Shelf's IVR Integration with Five9 - Installation & Configuration Guide_1.2](https://help.shelf.io/technical-guidelines-10162c4f/shelf-integrations-answer-assist-a7cdd497/shelfs-ivr-integration-with-five9-installation-conf-ae335cb0)
+- [Shelf SAML SSO with SCIM: Okta Setup Guide](https://help.shelf.io/technical-guidelines-10162c4f/shelf-single-sign-on-40507e61/shelf-saml-sso-with-scim-okta-setup-guide-b13d090e)
+- [Add Folders to Favorites List](https://help.shelf.io/library-and-folder-settings-28488ea5/content-navigation-and-organization-9291e624/add-folders-to-favorites-list-b72d423b): Having a Favorites list is one of the best tools for you to quickly access information that you use regularly. Not only can you Favorite individual Gems, but you can also favorite entire folders!
+- [Uploading Files and Folders from the Desktop](https://help.shelf.io/gem-content-overview-78c2eb26/for-content-managers-197af829/uploading-content-fbea87a8/uploading-files-and-folders-from-the-desktop-b9e11181)
+- [Accessing your Profile Settings](https://help.shelf.io/getting-started-04a7bf45/profile-settings-cf06c87e/accessing-your-profile-settings-ba896906): Access your profile settings to upload a photo, edit your name, email, password or to update how new Gems are displayed.
+- [Agent Assist configuration for Web Messaging](https://help.shelf.io/technical-guidelines-10162c4f/shelf-integrations-answer-assist-a7cdd497/agent-assist-configuration-for-web-messaging-c027f44e)
+- [Guide on Shelf Answer Assist Installation and Configuration on Kustomer Platform_v.1.0](https://help.shelf.io/technical-guidelines-10162c4f/shelf-integrations-answer-assist-a7cdd497/guide-on-shelf-answer-assist-installation-and-configurat-c0bd4e22)
+- [Content Types Overview](https://help.shelf.io/gem-content-overview-78c2eb26/shelf-gems-and-content-types-6a539109/content-types-overview-c1a9434a)
+- [Shelf Chatbot Integration v2 - Demo Configuration Guide for Genesys Cloud](https://help.shelf.io/technical-guidelines-10162c4f/shelf-chatbot-integration-v2-demo-configuration-guide-c1f9ad42): This document describes the required steps to setup & configure your own chat that will be connected to your Genesys Cloud instance for Demo purposes.
+- [Auto-Assigned File Format and Metadata in Shelf Uploads](https://help.shelf.io/gem-content-overview-78c2eb26/for-content-managers-197af829/uploading-content-fbea87a8/auto-assigned-file-format-and-metadata-in-shelf-uploads-c381b414)
+- [Shelf's Unique Search Capabilities](https://help.shelf.io/library-and-folder-settings-28488ea5/shelf-search-filters-eb0bc765/shelfs-unique-search-capabilities-c388a602)
+- [Shelf Notion Connector Guide](https://help.shelf.io/technical-guidelines-10162c4f/content-integration-layer-connectors-0cff4eea/shelf-notion-connector-guide-c5798d28)
+- [Tracking Uploads Progress in Shelf](https://help.shelf.io/gem-content-overview-78c2eb26/for-content-managers-197af829/uploading-content-fbea87a8/tracking-uploads-progress-in-shelf-c777c35e)
+- [Shelf Salesforce Community Developer Guide (v1.13)](https://help.shelf.io/technical-guidelines-10162c4f/shelf-salesforce-community-developer-guide-v113-c8ba90b2)
+- [Shelf Announcements Copilot Feature Overview_V1.1](https://help.shelf.io/technical-guidelines-10162c4f/shelf-announcements-copilot-feature-overview_v11-ce0c9864)
+- [Shelf Answer Assist End-to-End Guide_v1.6](https://help.shelf.io/technical-guidelines-10162c4f/shelf-integrations-answer-assist-a7cdd497/shelf-answer-assist-end-to-end-guide_v16-d07e6b62)
+- [Changing Search Results Numbers](https://help.shelf.io/library-and-folder-settings-28488ea5/shelf-search-filters-eb0bc765/changing-search-results-numbers-d27f2ea4)
+- [Shelf Search Feature Guide_v1.1](https://help.shelf.io/technical-guidelines-10162c4f/shelf-search-feature-guide_v11-d8149d35)
+- [How to Comment on a Gem](https://help.shelf.io/gem-content-overview-78c2eb26/shelf-gems-and-content-types-6a539109/how-to-comment-on-a-gem-d9ce9807)
+- [Shelf Self-Service Portal User Guide_v.1.2](https://help.shelf.io/technical-guidelines-10162c4f/shelf-self-service-portal-user-guide_v12-db567d5f)
+- [Shelf Federated Search End-to-End Guide_v.1.1](https://help.shelf.io/technical-guidelines-10162c4f/content-integration-layer-connectors-0cff4eea/shelf-federated-search-end-to-end-guide_v11-e17f309e)
+- [Shelf Webhooks Quick Start Guide_v1.0](https://help.shelf.io/technical-guidelines-10162c4f/shelf-webhooks-quick-start-guide_v10-e264e889)
+- [Shelf Content Publication Workflow Overview Guide](https://help.shelf.io/technical-guidelines-10162c4f/shelf-content-publication-workflow-overview-guide-e3cbddd0)
+- [Shelf Configuration Guide for NICE inContact CXone](https://help.shelf.io/technical-guidelines-10162c4f/shelf-integrations-answer-assist-a7cdd497/shelf-configuration-guide-for-nice-incontact-cxone-e8b94222)
+- [Shelf's Knowledge Assist Integration with Five9 - Installation & Configuration Guide](https://help.shelf.io/technical-guidelines-10162c4f/shelf-integrations-answer-assist-a7cdd497/shelfs-knowledge-assist-integration-with-five9-instal-eb15cd5f)
+- [Gem Copilot Feature Overview_V1.0](https://help.shelf.io/technical-guidelines-10162c4f/gem-copilot-feature-overview_v10-ec367866)
+- [Gathering Historic Data: Overview and Enabling Procedure](https://help.shelf.io/technical-guidelines-10162c4f/gathering-historic-data-overview-and-enabling-procedure-ec5237d4)
+- [Shelf Cloud CX Integration - Capabilities Overview](https://help.shelf.io/technical-guidelines-10162c4f/shelf-integrations-answer-assist-a7cdd497/shelf-cloud-cx-integration-capabilities-overview-eeef6349)
+- [Checking Synced Cloud Files and Folders on Shelf](https://help.shelf.io/gem-content-overview-78c2eb26/for-content-managers-197af829/uploading-content-fbea87a8/checking-synced-cloud-files-and-folders-on-shelf-f4485ff2)
+- [Shelf's Chat Deflection with CXOne - Configuration Guide](https://help.shelf.io/technical-guidelines-10162c4f/shelfs-chat-deflection-with-cxone-configuration-guide-f6f1d0c6)
+- [Editing Doc/Sheet/Presentation File in Shelf](https://help.shelf.io/gem-content-overview-78c2eb26/for-content-managers-197af829/editing-docsheetpresentation-file-in-shelf-fd87b660)
+
+## Indexes
+
+- [Sitemap](https://help.shelf.io/sitemap.xml): Full XML sitemap for this public help center

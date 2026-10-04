@@ -5,7 +5,7 @@ apis:
     name: Shelf REST API
     tags:
       - Artificial Intelligence
-      - Knowledge-Management
+      - Knowledge Management
       - REST
       - Search
     tags_raw:
@@ -13,6 +13,7 @@ apis:
       - Knowledge Management
       - REST
       - Search
+      - Knowledge-Management
     humanURL: https://shelf.io/technology/
     properties:
       - url: https://shelf.io/technology/
@@ -32,13 +33,14 @@ apis:
     tags:
       - Artificial Intelligence
       - Content
-      - Knowledge-Management
+      - Knowledge Management
       - Search
     tags_raw:
       - Artificial Intelligence
       - Content
       - Knowledge Management
       - Search
+      - Knowledge-Management
     humanURL: https://shelf.io/integrations/
     properties:
       - url: https://shelf.io/integrations/
@@ -53,12 +55,13 @@ apis:
     name: Shelf Webhooks
     tags:
       - Event
-      - Knowledge-Management
+      - Knowledge Management
       - Webhook
     tags_raw:
       - Events
       - Knowledge Management
       - Webhooks
+      - Knowledge-Management
     humanURL: https://shelf.io/integrations/
     properties:
       - url: https://shelf.io/integrations/
@@ -72,7 +75,7 @@ name: Shelf.io
 tags:
   - Artificial Intelligence
   - Contact Center
-  - Knowledge-Management
+  - Knowledge Management
   - Software-as-a-Service
   - Search
 tags_raw:
@@ -81,6 +84,7 @@ tags_raw:
   - Knowledge Management
   - SaaS
   - Search
+  - Knowledge-Management
 kind: contract
 deliveryModel:
   model: unknown

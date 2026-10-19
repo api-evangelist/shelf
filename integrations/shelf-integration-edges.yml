@@ -1,7 +1,9 @@
 generated: '2026-10-13'
 method: searched
 checked:
+- genesys/integrations/genesys-integration-edges.yml
 - https://azuremarketplace.microsoft.com/
+- zendesk/integrations/zendesk-integration-edges.yml
 marketplace_apps: []
 edges:
 - partner_name: Microsoft Azure Marketplace
@@ -19,3 +21,44 @@ edges:
   seller_name: Shelf
   detected_by: sweep-cloud-marketplaces.py
   detected: '2026-10-13'
+- partner_name: Genesys (own)
+  partner: genesys
+  partner_match: mirror
+  mirror_match: domain
+  type: marketplace
+  relationship: platform-app
+  direction: third-party
+  channel: partner-built
+  marketplace: own
+  evidence: https://appfoundry.genesys.com/filter/genesyscloud/listing/32088946-b2e0-4526-a30b-0463322209a5
+  mirror_of: genesys/integrations/genesys-integration-edges.yml
+  apps:
+  - Shelf
+  listing_count: 1
+  detected: '2026-10-19'
+  detected_by: mirror-platform-listings.py
+  publisher_verified:
+  - attestation:gdpr
+  - attestation:hipaa
+  - attestation:pci
+  - attestation:soc2
+- partner_name: Zendesk (own)
+  partner: zendesk
+  partner_match: mirror
+  mirror_match: domain
+  type: marketplace
+  relationship: platform-app
+  direction: third-party
+  channel: partner-built
+  marketplace: own
+  evidence: https://www.zendesk.com/marketplace/apps/support/906115/shelf-for-support/
+  mirror_of: zendesk/integrations/zendesk-integration-edges.yml
+  apps:
+  - Shelf for Support
+  listing_count: 1
+  detected: '2026-10-19'
+  detected_by: mirror-platform-listings.py
+  category: AI and Bots
+source:
+- genesys/integrations/genesys-integration-edges.yml
+- zendesk/integrations/zendesk-integration-edges.yml

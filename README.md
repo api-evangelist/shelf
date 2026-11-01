@@ -1,4 +1,4 @@
-# Shelf.io (shelf)
+# Shelf.io
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,99 +64,136 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Shelf.io is the first knowledge automation platform and next-generation AI agentic platform for knowledge management. The platform serves as a knowledge hub for brands with contact centers and large customer bases, enabling organizations to manage, improve, and deploy unstructured knowledge for accurate AI-generated answers and self-service experiences. Shelf provides developer-friendly REST APIs, SDKs (Python and JavaScript), webhooks, and 100+ integrations.
+Shelf.io is the first knowledge automation platform and next-generation AI agentic platform for knowledge management. The platform serves as a knowledge hub for brands with contact centers and large customer bases, enabling organizations to manage, improve, and deploy unstructured knowledge for accurate AI-generated answers and self-service experiences. Shelf provides developer-friendly REST APIs, SDKs (Python and JavaScript), webhooks, and 100+ integrations with platforms including Salesforce, Zendesk, ServiceNow, and Microsoft Teams. The platform offers Content Connectors, Decision Trees, multilingual support for 100+ languages, and analytics dashboards.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/shelf/refs/heads/main/apis.yml)
+**Areas:** Artificial Intelligence · Contact Center · Knowledge Management · Software-as-a-Service · Search
 
-## Scope
+## Shelf.io on APIs.io
 
-- **Type:** Contract
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for Shelf.io is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/shelf/](https://apis.io/providers/shelf/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (3)
 
- - Artificial Intelligence
- - Contact Center
- - Knowledge Management
- - SaaS
- - Search
+- [Shelf REST API](https://apis.io/apis/shelf/shelf-rest-api/) — The Shelf REST API enables developers to programmatically interact with the Shelf knowledge management platform. Access, search, create, and manage…
+- [Shelf Content Intelligence API](https://apis.io/apis/shelf/shelf-content-intelligence-api/) — The Shelf Content Intelligence API provides AI-powered knowledge retrieval, semantic search, and content quality analysis capabilities. Enables applications…
+- [Shelf Webhooks](https://apis.io/apis/shelf/shelf-webhooks/) — Shelf Webhooks enable real-time event notifications when knowledge content is created, updated, archived, or reviewed. Supports integration with external…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2025-01-01
-- **Modified:** 2026-05-02
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### JSON Schema (1)
 
-### Shelf REST API
+The data models the API reads and writes.
 
-The Shelf REST API enables developers to programmatically interact with the Shelf knowledge management platform. Access, search, create, and manage knowledge articles, gems, decision trees, and user permissions.
+- [Shelf Gem](https://apis.io/schemas/shelf/shelf-gem/)
 
-**Human URL:** [https://shelf.io/technology/](https://shelf.io/technology/)
+#### JSON Structure (1)
 
-#### Tags
+Data models expressed in JSON Structure.
 
- - Artificial Intelligence
- - Knowledge Management
- - REST
- - Search
+- [Shelf Gem Structure](https://apis.io/json-structure/shelf/shelf-gem-structure/)
 
-#### Properties
+#### JSON-LD (1)
 
-| Type | URL |
-|------|-----|
-| Documentation | [https://shelf.io/technology/](https://shelf.io/technology/) |
-| Getting Started | [https://help.shelf.io/technical-guidelines-10162c4f](https://help.shelf.io/technical-guidelines-10162c4f) |
-| Authentication | [https://help.shelf.io/technical-guidelines-10162c4f/shelf-api-token-feature-introductory-guide-aac2ec62](https://help.shelf.io/technical-guidelines-10162c4f/shelf-api-token-feature-introductory-guide-aac2ec62) |
+Linked-data contexts for the provider's vocabulary.
 
-### Shelf Content Intelligence API
+- [Shelf Context](https://apis.io/jsonld/shelf/shelf-context/)
 
-The Shelf Content Intelligence API provides AI-powered knowledge retrieval, semantic search, and content quality analysis capabilities.
+#### Vocabulary (1)
 
-**Human URL:** [https://shelf.io/integrations/](https://shelf.io/integrations/)
+The provider's domain terms, defined.
 
-#### Tags
+- [Shelf.io Vocabulary](https://apis.io/vocabularies/shelf/shelf-vocabulary/)
 
- - Artificial Intelligence
- - Content
- - Knowledge Management
- - Search
+#### Governance rules (1)
 
-#### Properties
+Spectral rulesets for the provider's contracts.
 
-| Type | URL |
-|------|-----|
-| Documentation | [https://shelf.io/integrations/](https://shelf.io/integrations/) |
+- [Shelf.io — jsonschema rules](https://apis.io/rules/shelf/shelf-jsonschema-spectral-rules/)
 
-### Shelf Webhooks
+#### Security (1)
 
-Shelf Webhooks enable real-time event notifications when knowledge content is created, updated, archived, or reviewed.
+Authentication, trust centre, and vulnerability disclosure.
 
-**Human URL:** [https://shelf.io/integrations/](https://shelf.io/integrations/)
+- [Shelf Domain Security](https://apis.io/security/shelf/shelf-domain-security/)
 
-#### Tags
+#### Plans and pricing (1)
 
- - Events
- - Knowledge Management
- - Webhooks
+Published plans, tiers and prices.
 
-#### Properties
+- [Shelf Plans Pricing](https://apis.io/plans/shelf/shelf-plans-pricing/)
 
-| Type | URL |
-|------|-----|
-| Documentation | [https://shelf.io/integrations/](https://shelf.io/integrations/) |
+#### Rate limits (1)
 
-## Common Properties
+Published request limits.
+
+- [Shelf Rate Limits](https://apis.io/rate-limits/shelf/shelf-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Shelf Finops](https://apis.io/finops/shelf/shelf-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://shelf.io)
-- [Developer Portal](https://shelf.io/technology/)
 - [Documentation](https://help.shelf.io/technical-guidelines-10162c4f)
-- [Integrations](https://shelf.io/integrations/)
-- [GitHub Organization](https://github.com/shelfio)
+- [Blog](https://shelf.io/blog/)
+- [GitHub](https://github.com/shelfio)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 23.2** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 69.6 |
+| Contract quality | 10.7 |
+| Contract governance | 9.8 |
+| Operational transparency | 13.2 |
+| Developer ergonomics | 45.2 |
+| Access clarity | 7.9 |
+
+**Agent readiness 3.1** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 15.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/shelf/](https://apis.io/providers/shelf/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Shelf.io: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/shelf/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
